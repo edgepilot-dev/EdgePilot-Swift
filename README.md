@@ -21,7 +21,7 @@ Intelligence generation needs a supported device running iOS 26 or later.
 
 This is a pre-release SDK. The Apple framework is unsigned. The release contains
 no model weights or provider credentials. Cloud calls require your project's
-provider setup and your app's explicit permission; AI evaluation is separate.
+provider setup and your app's explicit permission.
 
 The versioned binary checksum is pinned in `Package.swift`. Released versions are
 immutable; fixes are published as a new version.
