@@ -10,7 +10,7 @@ In Xcode, choose **File → Add Package Dependencies** and enter:
 https://github.com/edgepilot-dev/EdgePilot-Swift
 ```
 
-Choose exact version **0.1.0-alpha.2** and add **EdgePilot** to your app.
+Choose exact version **0.1.0-alpha.3** and add **EdgePilot** to your app.
 Build with Xcode 26 or later. Apps can target iOS 15 or later; local generation
 needs supported Apple Intelligence hardware running iOS 26 or later.
 
